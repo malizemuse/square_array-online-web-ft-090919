@@ -9,3 +9,9 @@ def square_array(array)
   new_array
   
 end
+
+
+# Test Code 
+
+some_array = [1,2,3]
+
