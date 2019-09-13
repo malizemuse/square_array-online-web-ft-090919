@@ -15,4 +15,4 @@ end
 
 some_array = [1,2,3]
 
-puts 
+puts square_array(some_array)
