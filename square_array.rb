@@ -10,11 +10,3 @@ def square_array(array)
   
 end
 
-
-=begin
-# Test Code 
-
-some_array = [1,2,3]
-
-puts square_array(some_array)
-=end
