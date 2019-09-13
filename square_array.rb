@@ -6,7 +6,7 @@ def square_array(array)
     new_array << num*num
   end
   
-  new_array.inspect
+  new_array
   
 end
 
